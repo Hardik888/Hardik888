@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Scalable Image Board and as a Frontend dev on side**
+ 🔭 I’m currently working on **Multiple Things**
  
  🌱 I’m currently learning **serverless functions, Docker, Next,Nestjs**
 
