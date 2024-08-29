@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Multiple Things**
  
- 🌱 I’m currently learning **serverless functions, Docker, Next,Nestjs**
+
 
 ⚡ Fun fact **I am Passionate About Calisthenics and Love endorphins releasing activities**
 
